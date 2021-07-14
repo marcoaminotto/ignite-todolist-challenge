@@ -17,13 +17,13 @@
 
 # 📖 About
 
-This application isthe first challange from the [Ignite Bootcamp](https://rocketseat.com.br/ignite). The objetive is to develop the CRUD functions of this app.
+This application is the first challenge from the [Ignite Bootcamp](https://rocketseat.com.br/ignite). The objetive is to develop the CRUD functions of this app.
 
 # 📐 Layout
 
 <div align="center">
   <p align="center">
-    <img src="./.github/main.png" width="475px" alt="Home page">
+    <img src="./.github/main.png" width="700px" alt="Home page">
   </p>
 </div>
 
