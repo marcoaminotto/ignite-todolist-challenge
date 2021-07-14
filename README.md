@@ -1,7 +1,3 @@
-# ignite-todolist-challenge
-The challenge is to add the CRUD functionalities. It's a task from the Ignite Bootcamp.
-
-
 <p align="center">
   <img src="https://github.com/marcoaminotto/ignite-todolist-challenge/blob/main/public/logo.svg" alt="Image of the ignite-todolist-challenge application" width="300px">
 </p>
